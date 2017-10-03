@@ -1,0 +1,16 @@
+body {
+    background: #1d1d1d;
+    color: #c1c1c1;
+}
+
+.cookie {
+    width: 500px;
+    height: 500px;
+    border-radius: 100%;
+    background: #6c310d;
+    transition: all 200ms;
+}
+
+.cookie:active {
+    transform: scale(0.95);
+}
